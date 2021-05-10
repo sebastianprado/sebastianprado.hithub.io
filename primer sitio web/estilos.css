@@ -1,0 +1,46 @@
+h1 {
+    font-family: monospace;
+    font-size: 25px;
+}
+h2 {
+    font-family: monospace;
+    font-size: 25px;
+}
+#partedearriba {
+    font-family: monospace;
+    font-size: 40px;
+}
+body {
+    text-align: center;
+
+}
+.agrupar {
+    width: 1100px;
+    border: 1px solid black;
+background: #00b894;
+margin: auto;
+}
+#partedearriba {
+    background:#00cec9;
+    border: 2px solid black;
+    padding: 20px;
+}
+h1 {
+    background: #81ecec;
+    border: 1px solid black;
+}
+h2 {
+    background: #81ecec;
+    border: 1px solid black;
+
+}
+p {
+    font-family: monospace;
+    font-size: 20px;
+    background: #55efc4;
+    border: 1px solid black;
+    
+}
+body {
+    background: black;
+}
